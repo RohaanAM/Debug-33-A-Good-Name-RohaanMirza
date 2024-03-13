@@ -1,0 +1,15 @@
+ /* Full credit to code.org for task */
+  
+p {
+  color: lightblue;
+}
+h1 {
+  color: lightgreen;
+  font-family: courior, monospace;
+}
+img{
+  width: 150px;
+}
+body{
+  background-color: teal;
+}
